@@ -1,0 +1,48 @@
+commodity_name,category_name,unit
+Bananas,vegetables and fruits,Unit
+Beans,pulses and nuts,KG
+Beans (dolichos),pulses and nuts,90 KG
+Beans (dry),pulses and nuts,90 KG
+Beans (kidney),pulses and nuts,90 KG
+Beans (mung),pulses and nuts,90 KG
+Beans (rosecoco),pulses and nuts,90 KG
+Beans (yellow),pulses and nuts,90 KG
+Bread,cereals and tubers,400 G
+Cabbage,vegetables and fruits,126 KG
+Cooking fat,oil and fats,KG
+Cowpea leaves,vegetables and fruits,KG
+Cowpeas,pulses and nuts,90 KG
+"Fish (omena, dry)","meat, fish and eggs",KG
+Fuel (diesel),non-food,L
+Fuel (kerosene),non-food,L
+Fuel (petrol-gasoline),non-food,L
+Kale,vegetables and fruits,50 KG
+Maize,cereals and tubers,KG
+Maize (white),cereals and tubers,90 KG
+"Maize (white, dry)",cereals and tubers,90 KG
+Maize flour,cereals and tubers,KG
+Meat (beef),"meat, fish and eggs",KG
+Meat (camel),"meat, fish and eggs",KG
+Meat (goat),"meat, fish and eggs",KG
+Milk (UHT),milk and dairy,200 ML
+"Milk (camel, fresh)",milk and dairy,L
+"Milk (cow, fresh)",milk and dairy,L
+"Milk (cow, pasteurized)",milk and dairy,500 ML
+Millet (finger),cereals and tubers,90 KG
+Oil (vegetable),oil and fats,L
+Onions (dry),vegetables and fruits,13 KG
+Onions (red),vegetables and fruits,KG
+Potatoes (Irish),cereals and tubers,50 KG
+"Potatoes (Irish, red)",cereals and tubers,50 KG
+"Potatoes (Irish, white)",cereals and tubers,50 KG
+Rice,cereals and tubers,KG
+Rice (aromatic),cereals and tubers,50 KG
+"Rice (imported, Pakistan)",cereals and tubers,50 KG
+Salt,miscellaneous food,200 G
+Sorghum,cereals and tubers,90 KG
+Sorghum (red),cereals and tubers,90 KG
+Sorghum (white),cereals and tubers,90 KG
+Spinach,vegetables and fruits,KG
+Sugar,miscellaneous food,KG
+Tomatoes,vegetables and fruits,KG
+Wheat flour,cereals and tubers,KG
