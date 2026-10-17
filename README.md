@@ -13,7 +13,7 @@ a full SQL analysis experience covering all major SQL concepts.
 - **Period:** January 2006 — September 2023
 - **Coverage:** 7 regions, 22 towns, 62 markets, 47 commodities
 - **Original file:** `data/raw/FOOD_PRICES_IN_KENYA.csv`
-
+Click [here](https://drive.google.com/file/d/1xrJ2JxMjTsg-BcsH_42J8K8vfCmEnFJt/view?usp=drive_link) to download the dataset.
 ---
 
 ## Project Structure
