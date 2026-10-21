@@ -211,6 +211,8 @@ Analyzes food prices at individual market level.
 ---
 
 ## Author
+**Brian Kipkorir Kiptoo**
+[LinkedIn]([https://www.linkedin.com/in/brian-kiptoo-602932387/](https://www.linkedin.com/in/brian-kiptoo-602932387/?utm_source=chatgpt.com))
 This project was built as a portfolio SQL analysis project demonstrating
 database design, normalization, data loading and multi-phase SQL analysis
 on a real world dataset.
