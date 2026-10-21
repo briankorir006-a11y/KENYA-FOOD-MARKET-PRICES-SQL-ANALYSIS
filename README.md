@@ -18,7 +18,7 @@ Click [here](https://drive.google.com/file/d/1xrJ2JxMjTsg-BcsH_42J8K8vfCmEnFJt/v
 
 ## Project Structure
 ```
-kenya_food_market_prices/
+   KENYA-FOOD-MARKET-PRICES-SQL-ANALYSIS/
 │
 ├── data/
 │   ├── raw/
