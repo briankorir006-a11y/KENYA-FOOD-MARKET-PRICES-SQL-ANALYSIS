@@ -1,4 +1,4 @@
-# Kenya Food Market Prices — SQL Analysis Project
+# KENYA-FOOD-MARKET-PRICES-SQL-ANALYSIS
 
 ## Project Overview
 This project analyzes food commodity prices across Kenya's markets from 2006 to 2023.
